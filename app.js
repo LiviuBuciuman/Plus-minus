@@ -1,6 +1,6 @@
 const arr = [-4, 3, -9, 0, 4, -1];
 
-console.log(plusMinus(arr));
+plusMinus(arr);
 
 function plusMinus(arr) {
     const n = arr.length;
